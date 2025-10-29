@@ -1,9 +1,0 @@
-Este es mi script de Python:
-
-\`\`\`python
-# Este es un comentario
-def hola_mundo():
-  print("¡Hola desde GitHub!")
-
-hola_mundo()
-\`\`\`
