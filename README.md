@@ -1,2 +1,2 @@
 # Instalacion-de-Terraform-en-Windows
-Instalación de Terraform en un Dispositivo Windows
+En este repositorio se muestra como se instala terraform en windows usando Visual Studio Code
